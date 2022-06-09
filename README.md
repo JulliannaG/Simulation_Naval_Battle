@@ -15,7 +15,7 @@ Rodzaje statków:
 Każda flota będzie dysponowała po 2 statki każdego rodzaju, które będą miały ustawioną pozycję startową na planszy. 
 Jeżeli statek jednej drużyny wejdzie w interakcje ze statkiem drużyny przeciwnej, wtedy 
 statek, który się nie poruszył zostaje zlikwidowany, a drużyna, której była to tura otrzymuje punkt. To 
-samo tyczy się zestrzelenia statku przez statek strzelający.
+samo tyczy się zestrzelenia statku przez statek strzelający. 
 
 Rodzaje interakcji między statkami:
 - Mały statek - posiada 1 życie, moc strzału = -1 życie
@@ -32,4 +32,5 @@ Punktacja statków:
 - Duży statek – 3 punkty
 - Statek strzelający – 4 punkty
 
-Na końcu symulacji będzie wyświetlało się okienko z rezultatem bitwy.
+Dodatkowo symulacja po każdej turze będzie zczytywała dane dotyczące bieżącej punktacji.
+Na końcu rozgrywki będzie wyświetlało się okienko z rezultatem bitwy.
