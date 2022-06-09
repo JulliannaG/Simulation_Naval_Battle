@@ -32,5 +32,5 @@ Punktacja statków:
 - Duży statek – 3 punkty
 - Statek strzelający – 4 punkty
 
-Dodatkowo symulacja po każdej turze będzie zczytywała dane dotyczące bieżącej punktacji.
+Dodatkowo symulacja po każdej turze będzie sczytywała dane dotyczące bieżącej punktacji.
 Na końcu rozgrywki będzie wyświetlało się okienko z rezultatem bitwy.
