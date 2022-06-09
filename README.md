@@ -7,10 +7,10 @@ Temat: Bitwa morska pomiędzy piratami, a flotą hiszpańską
 W skład projektu wchodzi plansza 10x10, na której będą ustawione statki dwóch drużyn (czarnych i czerwonych). Bitwa będzie podzielona na tury, dlatego co turę będzie poruszał się inny kolor statku (raz czarny, a raz czerwony). O ilości tur decyduje użytkownik. Pierwszy ruchu będzie wykonywała flota hiszpańska. W każdej turze drużyna może losowo poruszyć się jednym statkiem lub obrócić go o 90֯. Będą cztery rodzaje statków o różnych właściwościach.
 
 Rodzaje statków:
-• Mały statek – będzie poruszał się tylko jedno pole do przodu lub obracał się o 90֯
-• Średni statek – będzie poruszał się tylko jedno pole po skosie lub obracał się o 90֯
-• Duży statek – będzie poruszał się tylko jedno pole do przodu lub po skosie lub obracał się o 90֯
-• Statek strzelający – nie będzie się poruszał, ale będzie strzelał w piąte pole przed sobą lub obracał się o 90֯ 
+- Mały statek – będzie poruszał się tylko jedno pole do przodu lub obracał się o 90֯
+- Średni statek – będzie poruszał się tylko jedno pole po skosie lub obracał się o 90֯
+- Duży statek – będzie poruszał się tylko jedno pole do przodu lub po skosie lub obracał się o 90֯
+- Statek strzelający – nie będzie się poruszał, ale będzie strzelał w piąte pole przed sobą lub obracał się o 90֯ 
 
 Każda flota będzie dysponowała po 2 statki każdego rodzaju, które będą miały ustawioną pozycję startową na planszy. 
 Jeżeli statek jednej drużyny wejdzie w interakcje ze statkiem drużyny przeciwnej, wtedy 
@@ -27,9 +27,9 @@ Koniec bitwy sygnalizuje ilość zdobytych punktów, brak statków danego koloru
 Każdy statek ma przydzieloną konkretną wartość i za jego zatopienie będą naliczane punkty drużynie.
 
 Punktacja statków:
-• Mały statek – 1 punkt
-• Średni statek – 2 punkty
-• Duży statek – 3 punkty
-• Statek strzelający – 4 punkty
+- Mały statek – 1 punkt
+- Średni statek – 2 punkty
+- Duży statek – 3 punkty
+- Statek strzelający – 4 punkty
 
 Na końcu symulacji będzie wyświetlało się okienko z rezultatem bitwy.
