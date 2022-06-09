@@ -18,10 +18,10 @@ statek, który się nie poruszył zostaje zlikwidowany, a drużyna, której był
 samo tyczy się zestrzelenia statku przez statek strzelający.
 
 Rodzaje interakcji między statkami:
-• Mały statek - posiada 1 życie, moc strzału = -1 życie
-• Średni statek - posiada 2 życia, moc strzału = -2 życia
-• Duży statek - posiada 3 życia, moc strzału = -3 życia
-• Statek strzelający - posiada 4 życia, moc strzału = -2 życia
+- Mały statek - posiada 1 życie, moc strzału = -1 życie
+- Średni statek - posiada 2 życia, moc strzału = -2 życia
+- Duży statek - posiada 3 życia, moc strzału = -3 życia
+- Statek strzelający - posiada 4 życia, moc strzału = -2 życia
 
 Koniec bitwy sygnalizuje ilość zdobytych punktów, brak statków danego koloru na planszy lub zakończenie ostatniej tury (określonej przez użytkownika). 
 Każdy statek ma przydzieloną konkretną wartość i za jego zatopienie będą naliczane punkty drużynie.
